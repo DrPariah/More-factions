@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "CORE",
+    "ident": "More-factions",
+    "name": "More factions",
+    "description": "This expands factions in the game ",
+    "category": "Bandits",
+    "author": "GoatGod",
+    "dendancies": [ "dda" ]
+  }
+]
