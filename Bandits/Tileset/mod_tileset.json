@@ -1,7 +1,7 @@
 [
   {
     "type": "mod_tileset",
-    "compatibility": [ "ChestHole32" ],
+    "compatibility": [ "ChestHole32", "MSX++UnDeadPeopleEdition" ],
     "tiles-new": [
       {
         "file": "agentbandits.png",
@@ -9,10 +9,9 @@
           { "id": "mon_bandit_looter", "fg": 0 },
           { "id": "mon_bandit_glock", "fg": 1 },
           { "id": "mon_bandit_shotgun", "fg": 2 }
-		  
+
         ]
       }
     ]
   }
 ]
-
