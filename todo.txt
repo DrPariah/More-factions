@@ -1,1 +1,2 @@
 put json files into folders to make it easier to understand
+Translate anything that needs translated
