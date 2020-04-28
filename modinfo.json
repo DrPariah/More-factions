@@ -4,7 +4,7 @@
     "mod-type": "CORE",
     "ident": "More-factions",
     "name": "More factions",
-    "description": "This expands factions in the game ",
+    "description": "This adds 11 factions.  when its finsished.",
     "category": "Bandits",
     "author": "GoatGod",
     "dendancies": [ "dda" ]
