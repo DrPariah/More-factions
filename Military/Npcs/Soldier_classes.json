@@ -1,170 +1,57 @@
 [
-{
-        "type" : "npc_class",
-        "id" : "Private",
-        "name" : "Private",
-        "job_description" : "Private in the army",
-        "common" : true,
-        "bonus_str" : { "rng" : [ 1, 4 ] },
-        "bonus_per" : { "one_in" : 3 },
-        "skills" : [
-            {
-                "skill" : "ALL", "level" : {
-                    "sum" : [
-                        { "dice" : [ 3, 2 ] },
-                        { "constant" : -3 }
-                    ]
-                }
-            },
-            { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-            { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-            { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-            { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-            { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-        ]
-    },
-    {
-            "type" : "npc_class",
-            "id" : "Private First Classes",
-            "name" : "Private",
-            "job_description" : "Private in the army",
-            "common" : true,
-            "bonus_str" : { "rng" : [ 1, 4 ] },
-            "bonus_per" : { "one_in" : 3 },
-            "skills" : [
-                {
-                    "skill" : "ALL", "level" : {
-                        "sum" : [
-                            { "dice" : [ 3, 2 ] },
-                            { "constant" : -3 }
-                        ]
-                    }
-                },
-                { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-                { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-                { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-                { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-                { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-            ]
-        },
-        {
-                "type" : "npc_class",
-                "id" : "Specialist",
-                "name" : "Private",
-                "job_description" : "Private in the army",
-                "common" : true,
-                "bonus_str" : { "rng" : [ 1, 4 ] },
-                "bonus_per" : { "one_in" : 3 },
-                "skills" : [
-                    {
-                        "skill" : "ALL", "level" : {
-                            "sum" : [
-                                { "dice" : [ 3, 2 ] },
-                                { "constant" : -3 }
-                            ]
-                        }
-                    },
-                    { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-                    { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-                    { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-                    { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-                    { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-                ]
-            },
-            {
-                    "type" : "npc_class",
-                    "id" : "Corporal",
-                    "name" : "Private",
-                    "job_description" : "Private in the army",
-                    "common" : true,
-                    "bonus_str" : { "rng" : [ 1, 4 ] },
-                    "bonus_per" : { "one_in" : 3 },
-                    "skills" : [
-                        {
-                            "skill" : "ALL", "level" : {
-                                "sum" : [
-                                    { "dice" : [ 3, 2 ] },
-                                    { "constant" : -3 }
-                                ]
-                            }
-                        },
-                        { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-                        { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-                        { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-                        { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-                        { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-                    ]
-                },
-                {
-                        "type" : "npc_class",
-                        "id" : "Sergeants_SGT",
-                        "name" : "Private",
-                        "job_description" : "Private in the army",
-                        "common" : true,
-                        "bonus_str" : { "rng" : [ 1, 4 ] },
-                        "bonus_per" : { "one_in" : 3 },
-                        "skills" : [
-                            {
-                                "skill" : "ALL", "level" : {
-                                    "sum" : [
-                                        { "dice" : [ 3, 2 ] },
-                                        { "constant" : -3 }
-                                    ]
-                                }
-                            },
-                            { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-                            { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-                            { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-                            { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-                            { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-                        ]
-                      },
-                        {
-                                "type" : "npc_class",
-                                "id" : "Sergeant_First_Class",
-                                "name" : "Private",
-                                "job_description" : "Private in the army",
-                                "common" : true,
-                                "bonus_str" : { "rng" : [ 1, 4 ] },
-                                "bonus_per" : { "one_in" : 3 },
-                                "skills" : [
-                                    {
-                                        "skill" : "ALL", "level" : {
-                                            "sum" : [
-                                                { "dice" : [ 3, 2 ] },
-                                                { "constant" : -3 }
-                                            ]
-                                        }
-                                    },
-                                    { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-                                    { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-                                    { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-                                    { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-                                    { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-                                ]
-                            },
-                            {
-                                    "type" : "npc_class",
-                                    "id" : "Master_Sergeant_MSG",
-                                    "name" : "Private",
-                                    "job_description" : "Private in the army",
-                                    "common" : true,
-                                    "bonus_str" : { "rng" : [ 1, 4 ] },
-                                    "bonus_per" : { "one_in" : 3 },
-                                    "skills" : [
-                                        {
-                                            "skill" : "ALL", "level" : {
-                                                "sum" : [
-                                                    { "dice" : [ 3, 2 ] },
-                                                    { "constant" : -3 }
-                                                ]
-                                            }
-                                        },
-                                        { "skill": "dodge", "bonus" : { "rng" : [ 1, 2 ] } },
-                                        { "skill": "melee", "bonus" : { "rng" : [ 1, 2 ] } },
-                                        { "skill": "unarmed", "bonus" : { "rng" : [ 1, 2 ] } },
-                                        { "skill": "rifle", "bonus" : { "rng" : [ 1, 2 ] } },
-                                        { "skill": "gun", "bonus" : { "rng" : [ 1 ] } }
-                                    ]
-                                },
+  {
+    "type": "npc",
+    "id": "Soldier_WO1",
+    "//": "Warrant Officer 1 in the usa army.",
+    "name+": ", Warrant Officer 1",
+    "class": "Warrant_Officer_1",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Warrant_officer",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_WO2",
+    "//": "Warrant Officer 2 in the usa army.",
+    "name+": ", Warrant Officer 2",
+    "class": "Warrant_Officer_2",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Warrant_officer",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_WO3",
+    "//": "Warrant Officer 3 in the usa army.",
+    "name+": ", Warrant Officer 3",
+    "class": "Warrant_Officer_3",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Warrant_officer",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_WO4",
+    "//": "Warrant Officer 4 in the usa army.",
+    "name+": ", Warrant Officer 4",
+    "class": "Warrant_Officer_4",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Warrant_officer",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_WO5",
+    "//": "Warrant Officer 5 in the usa army.",
+    "name+": ", Warrant Officer 5",
+    "class": "Warrant_Officer_5",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Warrant_officer",
+    "faction": "Military"
+  }
 ]
