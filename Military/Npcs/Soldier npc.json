@@ -1,0 +1,134 @@
+[
+  {
+    "type": "npc",
+    "id": "soldier_PVT",
+    "//": "A Private in the usa army.",
+    "name+": ", Private (PVT)",
+    "class": "Private_PVT",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Private",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_PFC",
+    "//": "A Private First Class in the usa army.",
+    "name+": ", Private First Class (PFC)",
+    "class": "Private_PVT",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Private_First_Class",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_SPC",
+    "//": "A Specialist in the usa army.",
+    "name+": ", Specialist (SPC)",
+    "class": "Specialist_SPC",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Specialist",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_CPL",
+    "//": "A Corporal in the usa army.",
+    "name+": ", Corporal (CPL)",
+    "class": "Corporal_CPL",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Corporal",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_SGT",
+    "//": "A Sergeants in the usa army.",
+    "name+": ", Sergeants (SGT)",
+    "class": "Sergeants_SGT",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Sergeants",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_SSG",
+    "//": "A Staff Sergeant in the usa army.",
+    "name+": ", Staff Sergeant (SSG)",
+    "class": "Sergeants_SGT",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Staff_Sergeant",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_Class",
+    "//": "A Sergeant First Class in the usa army.",
+    "name+": ", Sergeant First Class (SFC)",
+    "class": "Sergeant_SFC",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Sergeant_First_Class",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_MSG",
+    "//": "A Master Sergeant in the usa army.",
+    "name+": ", Master Sergeant (MSG)",
+    "class": "Master_Sergeant_MSG",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "The_First_Sergeant",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_TFS",
+    "//": "The First Sergeant in the usa army.",
+    "name+": ", The First Sergeant (TFS)",
+    "class": "Sergeants_SGT",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "The_First_Sergeant",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_SGM",
+    "//": "A Sergeant Major in the usa army.",
+    "name+": ", Sergeant Major (SGM)",
+    "class": "Sergeant_Major",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Sergeant_Major",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_CSM",
+    "//": "A Command Sergeant Major in the usa army.",
+    "name+": ", Command Sergeant Major (CSM)",
+    "class": "Sergeant_Major",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "soldier_PVT",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "soldier_SMA",
+    "//": "The Sergeant Major of the Army.",
+    "name+": ", The Sergeant Major of the Army (SMA)",
+    "class": "Sergeant_major_of_the_army_SMA",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Sergeant_major_of_the_army",
+    "faction": "Military"
+  },
+]
