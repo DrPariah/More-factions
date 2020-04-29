@@ -1,0 +1,26 @@
+[
+  {
+    "type": "talk_topic",
+    "id": "soldier_PVT",
+    "dynamic_line": {
+      "u_is_wearing": "badge_marshal",
+      "yes": [
+        "Marshal.",
+        "The Major wants to talk to you.",
+        "I'm not in charge here, marshal.",
+        "Get a move on."
+      ],
+      "no": [
+        "citizen. Whats your name",
+        "You should keep behind us, loot what you can.",
+        "You need to be carefull, these zombies arent what we expected.",
+        {
+          "u_male": true,
+          "yes": [ "Sir.", "Dude, if you can hold your own you should look into enlisting." ],
+          "no": [ "Ma'am", "Hey miss, don't you think it would be safer if you stuck with me?" ]
+        }
+      ]
+    },
+    "responses": [ { "text": "Don't mind me…", "topic": "TALK_DONE" } ]
+  },
+]
