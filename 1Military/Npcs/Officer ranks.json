@@ -1,0 +1,123 @@
+[
+  {
+    "type": "npc",
+    "id": "Soldier_SLT",
+    "//": "Second Lieutenant in the usa army.",
+    "name+": ", Second Lieutenant",
+    "class": "Lower_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Lower_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_FLT",
+    "//": "First Lieutenant in the usa army.",
+    "name+": ", First Lieutenant",
+    "class": "Lower_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Lower_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_CPT",
+    "//": "Captain in the usa army.",
+    "name+": ", Captain",
+    "class": "Lower_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Lower_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_MJR",
+    "//": "Major in the usa army.",
+    "name+": ", Major",
+    "class": "Lower_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Lower_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_LTC",
+    "//": "Lieutenant Colonel in the usa army.",
+    "name+": ", Lieutenant Colonel",
+    "class": "Lower_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Lower_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_COL",
+    "//": "Colonel in the usa army.",
+    "name+": ", Colonel",
+    "class": "higher_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "higher_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_BRG",
+    "//": "Brigadier General in the usa army.",
+    "name+": ", Brigadier General",
+    "class": "higher_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "higher_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_MGN",
+    "//": "Major General in the usa army.",
+    "name+": ", Major General",
+    "class": "higher_officer_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "higher_officer_chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_LTG",
+    "//": "Lietenant General in the usa army.",
+    "name+": ", Lietenant General",
+    "class": "Lietenant_general_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "Lietenant_general_Chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_FLT",
+    "//": "General in the usa army.",
+    "name+": ", General",
+    "class": "General_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "General_Chat",
+    "faction": "Military"
+  },
+  {
+    "type": "npc",
+    "id": "Soldier_GEN_of_the_army",
+    "//": "General of the army.",
+    "name+": ", General of the army",
+    "class": "General_of_the_army_class",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "General_of_the_army_Chat",
+    "faction": "Military"
+  }
+]

@@ -1,0 +1,6 @@
+look through code 
+add more merchant loctions
+* subway trader
+* add trader at farm
+* add trader at radio tower
+* add faction traders
