@@ -1,18 +1,18 @@
 [
   {
     "type": "faction",
-    "id": "police",
-    "name": "police",
+    "id": "Military",
+    "name": "Military",
     "likes_u": 1,
     "respects_u": 1,
-    "known_by_u": false,
-    "size": 100,
-    "power": 120,
-    "food_supply": 20000,
-    "wealth": 200000,
+    "known_by_u": true,
+    "size": 200,
+    "power": 500,
+    "food_supply": 200000,
+    "wealth": 5000000,
     "relations": {
       "your_followers": { "kill on sight": false, "defends your space": true, "knows your voice": true },
-      "police": {
+      "military": {
         "kill on sight": false,
         "watch your back": true,
         "share my stuff": true,
@@ -22,6 +22,6 @@
         "knows your voice": true
       }
     },
-    "description": "police"
+    "description": "The United States Armed Forces are the military forces of the United States of America."
   },
 ]

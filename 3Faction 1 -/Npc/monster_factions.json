@@ -1,18 +1,18 @@
 [
   {
     "type": "faction",
-    "id": "police",
-    "name": "police",
+    "id": "civ1",
+    "name": "civ1",
     "likes_u": 1,
     "respects_u": 1,
     "known_by_u": false,
-    "size": 100,
-    "power": 120,
+    "size": 50,
+    "power": 50,
     "food_supply": 20000,
-    "wealth": 200000,
+    "wealth": 80000,
     "relations": {
-      "your_followers": { "kill on sight": false, "defends your space": true, "knows your voice": true },
-      "police": {
+      "your_followers": { "kill on sight": false, "knows your voice": true },
+      "civ1": {
         "kill on sight": false,
         "watch your back": true,
         "share my stuff": true,
@@ -22,6 +22,6 @@
         "knows your voice": true
       }
     },
-    "description": "police"
+    "description": "civ1"
   },
 ]

@@ -1,8 +1,0 @@
-[
-  {
-    "type": "MONSTER_FACTION",
-    "name": "Military",
-    "base_faction": "Military",
-    "friendly": [ "Police", "civ1", "civ2" ]
-  }
-]

@@ -1,36 +1,6 @@
 [
   {
     "type": "npc",
-    "id": "merchant_guard",
-    "name+": "Guard",
-    "class": "Merc_guard",
-    "attitude": 0,
-    "mission": 7,
-    "chat": "TALK_DONE",
-    "faction": "wasteland_scavengers"
-  },
-  {
-    "type": "npc",
-    "id": "merchant_guardH",
-    "name+": "Guard",
-    "class": "Merc_guardH",
-    "attitude": 0,
-    "mission": 7,
-    "chat": "TALK_DONE",
-    "faction": "wasteland_scavengers"
-  },
-  {
-    "type": "npc",
-    "id": "merchant_guard2",
-    "name+": "Guard",
-    "class": "Merc_guard",
-    "attitude": 1,
-    "mission": 7,
-    "chat": "TALK_Merc_guard_gate",
-    "faction": "wasteland_scavengers"
-  },
-  {
-    "type": "npc",
     "id": "merchant_mil",
     "name+": "Military Supplies Dealer.",
     "class": "Merc_Military",
