@@ -18,9 +18,7 @@ e Items <weapons> -
 f Locations -
 g spawns? -
 
-4.  Name factions 1 -
-
-5.  Build Faction 1 -
+4.  Build Faction Militia -
 a Npc ranks- 
 b Npc Classes - 
 c Npc Comunnications -
@@ -28,10 +26,9 @@ d Items <clothing> -
 e Items <weapons> -
 f Locations -
 g spawns? -
+h Name factions 1 - done
 
-6.  Name factions 2 -
-
-7.  Build Faction 2 -
+5.  Build Faction Ex cons -
 a Npc ranks- 
 b Npc Classes - 
 c Npc Comunnications -
@@ -39,10 +36,9 @@ d Items <clothing> -
 e Items <weapons> -
 f Locations -
 g spawns? -
+h Name factions 2 - done
 
-8.  Name factions 3 -
-
-9.  Build Faction 3 -
+6.  Build Faction 3 -
 a Npc ranks- 
 b Npc Classes - 
 c Npc Comunnications -
@@ -50,25 +46,30 @@ d Items <clothing> -
 e Items <weapons> -
 f Locations -
 g spawns? -
+h Name factions 3 -
 
-10. Merge wasteland mod into merchant mod -
+7. Merge wasteland mod into merchant mod -
 
-11. build merchant mod up -
+8. build merchant mod up -
 a add more NPCS
 b add more items
 c add more locations
 d add more vehicles
 
-12. build road warrior mod up -
+9. build road warrior mod up -
 a add more NPCS
 b add more items
 c add more locations
 d add more vehicles
 
-13. build up bandits 
+10. build up bandits 
 
-14. build up Morlocks
+11. build up Morlocks
 
-15. Make new Militia bandits
+12. Make new Militia bandits
 
-16. Make new Faction
+13. Make new Faction gang 2
+
+14. 
+
+15.

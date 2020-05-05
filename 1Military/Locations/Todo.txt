@@ -3,3 +3,6 @@ bunker
 Barracks
 Training Centre
 air bases
+military bases
+check points
+
