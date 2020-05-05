@@ -21,9 +21,8 @@
     "encumbrance": 20,
     "warmth": 20,
     "material_thickness": 9,
-    "qualities": [ [ "CUT", 2 ] ],
+    "qualities": [ [ "GLARE", 2 ], [ "CUT", 2 ] ],
     "environmental_protection": 10,
-    "qualities": [ [ "GLARE", 2 ] ],
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
@@ -159,5 +158,5 @@
     "qualities": [ [ "GLARE", 2 ] ],
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "WATCH", "WATERPROOF", "STURDY", "SUN_GLASSES" ]
-  },
+  }
 ]
