@@ -64,3 +64,11 @@ a add more NPCS
 b add more items
 c add more locations
 d add more vehicles
+
+13. build up bandits 
+
+14. build up Morlocks
+
+15. Make new Militia bandits
+
+16. Make new Faction
