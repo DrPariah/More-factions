@@ -1,2 +1,66 @@
-put json files into folders to make it easier to understand
-Translate anything that needs translated
+1.  put json files into folders - DONE
+
+2.  build military mod up -
+a Npc ranks- done
+b Npc Classes - 
+c Npc Comunnications -
+d Items <clothing> -
+e Items <weapons> -
+f Locations -
+g spawns? -
+
+3.  build police mod up -
+a Npc ranks- 
+b Npc Classes - 
+c Npc Comunnications -
+d Items <clothing> -
+e Items <weapons> -
+f Locations -
+g spawns? -
+
+4.  Name factions 1 -
+
+5.  Build Faction 1 -
+a Npc ranks- 
+b Npc Classes - 
+c Npc Comunnications -
+d Items <clothing> -
+e Items <weapons> -
+f Locations -
+g spawns? -
+
+6.  Name factions 2 -
+
+7.  Build Faction 2 -
+a Npc ranks- 
+b Npc Classes - 
+c Npc Comunnications -
+d Items <clothing> -
+e Items <weapons> -
+f Locations -
+g spawns? -
+
+8.  Name factions 3 -
+
+9.  Build Faction 3 -
+a Npc ranks- 
+b Npc Classes - 
+c Npc Comunnications -
+d Items <clothing> -
+e Items <weapons> -
+f Locations -
+g spawns? -
+
+10. Merge wasteland mod into merchant mod -
+
+11. build merchant mod up -
+a add more NPCS
+b add more items
+c add more locations
+d add more vehicles
+
+12. build road warrior mod up -
+a add more NPCS
+b add more items
+c add more locations
+d add more vehicles
