@@ -63,8 +63,16 @@ c add more locations
 d add more vehicles
 
 10. build up bandits 
+a add more NPCS
+b add more items
+c add more locations
+d add more vehicles
 
 11. build up Morlocks
+a add more NPCS
+b add more items
+c add more locations
+d add more vehicles
 
 12. Make new Militia bandits
 
