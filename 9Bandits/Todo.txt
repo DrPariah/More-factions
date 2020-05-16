@@ -1,2 +1,2 @@
-add goverment bandits
 look through code
+add more bandits
