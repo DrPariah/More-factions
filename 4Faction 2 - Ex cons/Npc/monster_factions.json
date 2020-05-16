@@ -1,8 +1,27 @@
 [
   {
-    "type": "MONSTER_FACTION",
-    "name": "civ2",
-    "base_faction": "civ2",
-    "friendly": [ "Military", "Police", "civ1" ]
+    "type": "faction",
+    "id": "civ1",
+    "name": "civ1",
+    "likes_u": 1,
+    "respects_u": 1,
+    "known_by_u": false,
+    "size": 50,
+    "power": 50,
+    "food_supply": 20000,
+    "wealth": 80000,
+    "relations": {
+      "your_followers": { "kill on sight": false, "knows your voice": true },
+      "civ1": {
+        "kill on sight": false,
+        "watch your back": true,
+        "share my stuff": true,
+        "guard your stuff": true,
+        "lets you in": true,
+        "defends your space": true,
+        "knows your voice": true
+      }
+    },
+    "description": "civ1"
   }
 ]
