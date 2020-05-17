@@ -1,0 +1,8 @@
+[
+  {
+    "type": "start_location",
+    "abstract": "gas_station2",
+    "name": "Gas Station",
+    "target": "gas_station2"
+  }
+]
