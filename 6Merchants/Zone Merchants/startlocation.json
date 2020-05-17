@@ -1,0 +1,8 @@
+[
+  {
+    "abstract": "Market",
+    "type": "start_location",
+    "name": "Survivor village",
+    "target": "ZoneNE"
+  }
+]
