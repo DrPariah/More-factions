@@ -133,7 +133,7 @@
     "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
-    "id": " Personnel_Armor_System",
+    "id": "Personnel_Armor_System",
     "repairs_like": "xlkevlar",
     "type": "ARMOR",
     "category": "armor",
