@@ -1,0 +1,200 @@
+[
+  {
+    "type": "npc_class",
+    "id": "Lower_officer_class",
+    "name": "Lower_officer_class",
+    "job_description": "Lower officers in the army",
+    "common": true,
+    "points": 4,
+    "skills": [
+      { "level": 2, "name": "gun" },
+      { "level": 2, "name": "rifle" },
+      { "level": 3, "name": "stabbing" },
+      { "level": 3, "name": "melee" },
+      { "level": 1, "name": "survival" },
+      { "level": 2, "name": "firstaid" },
+      { "level": 1, "name": "swimming" }
+    ],
+    "traits": [ "PROF_MA_ORANGE" ],
+    "items": {
+      "both": {
+        "items": [ "pants_army", "army_top", "jacket_army", "socks", "boots_combat", "canteen" ],
+        "entries": [
+          { "item": "knife_combat", "container-item": "sheath" },
+          { "item": "m4a1", "ammo-item": "308", "contents-item": "shoulder_strap" }
+        ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
+  },
+  {
+    "type": "npc_class",
+    "id": "higher_officer_class",
+    "name": "higher officer class",
+    "job_description": "higher officers in the army",
+    "common": true,
+    "points": 12,
+    "skills": [ { "level": 3, "name": "gun" }, { "level": 3, "name": "rifle" }, { "level": 2, "name": "stabbing" } ],
+    "items": {
+      "both": {
+        "ammo": 100,
+        "items": [
+          "modularvestkevlar",
+          "pants_army",
+          "legguard_hard",
+          "army_top",
+          "jacket_army",
+          "armguard_hard",
+          "mre_beef_box",
+          "helmet_army",
+          "glasses_bal",
+          "rucksack",
+          "two_way_radio",
+          "gloves_tactical",
+          "socks",
+          "boots_combat",
+          "canteen"
+        ],
+        "entries": [
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "sleeping_bag", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "knife_combat", "container-item": "sheath" },
+          { "item": "scar_h", "ammo-item": "308", "contents-item": "shoulder_strap" },
+          { "item": "scarhmag", "ammo-item": "308", "count": 2 }
+        ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
+  },
+  {
+   "type": "npc_class",
+    "id": "Lietenant_general_class",
+    "name": "Lietenant_general.",
+    "job_description": "Lietenant general in the army",
+    "common": true,
+    "points": 13,
+    "skills": [
+      { "level": 2, "name": "gun" },
+      { "level": 2, "name": "pistol" },
+      { "level": 3, "name": "speech" },
+      { "level": 3, "name": "barter" },
+      { "level": 1, "name": "firstaid" }
+    ],
+    "items": {
+      "both": {
+        "ammo": 100,
+        "items": [
+          "chestrig",
+          "pants_army",
+          "army_top",
+          "jacket_army",
+          "mre_beef_box",
+          "beret",
+          "fancy_sunglasses",
+          "flashlight",
+          "two_way_radio",
+          "socks",
+          "boots_combat",
+          "canteen",
+          "id_military"
+        ],
+        "entries": [
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "knife_combat", "container-item": "sheath" },
+          { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
+          { "item": "m9mag", "ammo-item": "9mm", "count": 2 }
+        ]
+        },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
+  },
+  {
+    "type": "npc_class",
+    "id": "General_class",
+    "name": "Lower_officer_class",
+    "job_description": "Lower officers in the army",
+    "common": true,
+    "points": 4,
+    "skills": [
+      { "level": 2, "name": "gun" },
+      { "level": 2, "name": "pistol" },
+      { "level": 3, "name": "speech" },
+      { "level": 3, "name": "barter" },
+      { "level": 1, "name": "firstaid" }
+    ],
+    "items": {
+      "both": {
+        "ammo": 100,
+        "items": [
+          "chestrig",
+          "pants_army",
+          "army_top",
+          "jacket_army",
+          "mre_beef_box",
+          "beret",
+          "fancy_sunglasses",
+          "flashlight",
+          "two_way_radio",
+          "socks",
+          "boots_combat",
+          "canteen",
+          "id_military"
+        ],
+        "entries": [
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "knife_combat", "container-item": "sheath" },
+          { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
+          { "item": "m9mag", "ammo-item": "9mm", "count": 2 }
+        ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
+  },
+  {
+    "type": "npc_class",
+    "id": "General_of_the_army_class",
+    "name": "General of the army",
+    "job_description": "General_of_the_army.",
+    "common": true,
+    "points": 14,
+    "skills": [
+      { "level": 2, "name": "gun" },
+      { "level": 2, "name": "pistol" },
+      { "level": 3, "name": "speech" },
+      { "level": 3, "name": "barter" },
+      { "level": 1, "name": "firstaid" }
+    ],
+    "items": {
+      "both": {
+        "ammo": 100,
+        "items": [
+          "chestrig",
+          "pants_army",
+          "army_top",
+          "jacket_army",
+          "mre_beef_box",
+          "beret",
+          "fancy_sunglasses",
+          "flashlight",
+          "two_way_radio",
+          "socks",
+          "boots_combat",
+          "canteen",
+          "id_military"
+      ],
+       "entries": [
+         { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+         { "item": "knife_combat", "container-item": "sheath" },
+         { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
+         { "item": "m9mag", "ammo-item": "9mm", "count": 2 }
+       ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
+  }
+]
