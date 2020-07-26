@@ -1,0 +1,33 @@
+[
+  {
+    "id": "semiauto",
+    "type": "GUN",
+    "symbol": "(",
+    "color": "light_gray",
+    "name": "semiauto",
+    "name_plural": "semiautos",
+    "description": "A pre-wastes military weapon that cocks itself after firing.",
+    "price": 725000,
+    "material": [ "steel", "plastic" ],
+    "flags": "NEVER_JAMS",
+    "skill": "pistol",
+    "ammo": "9mm",
+    "weight": "755 g",
+    "volume": "750 ml",
+    "bashing": 8,
+    "cutting": 0,
+    "to_hit": 2,
+    "ranged_damage": 1,
+    "range": 12,
+    "dispersion": 225,
+    "sight_dispersion": 90,
+    "aim_speed": 3,
+    "recoil": 80,
+    "durability": 10,
+    "burst": 1,
+    "clip_size": 11,
+    "reload": 115,
+    "loudness": 85,
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "bore", 1 ], [ "conversion", 1 ], [ "grip", 1 ], [ "mechanism", 2 ] ]
+  }
+]
